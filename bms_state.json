@@ -110,7 +110,7 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "310.00",
-      "status": "2"
+      "status": "3"
     },
     "CFBS|2507|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -134,7 +134,7 @@
       "date": "20260404",
       "cat": "PREMIUM",
       "price": "1100.00",
-      "status": "1"
+      "status": "2"
     },
     "CFBS|2508|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -158,7 +158,7 @@
       "date": "20260404",
       "cat": "PREMIUM",
       "price": "1100.00",
-      "status": "1"
+      "status": "2"
     }
   },
   "dates": {
