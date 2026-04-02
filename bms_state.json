@@ -14,7 +14,7 @@
       "date": "20260403",
       "cat": "EXECUTIVE",
       "price": "1050.00",
-      "status": "2"
+      "status": "0"
     },
     "CFBS|2464|20260403|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -22,7 +22,7 @@
       "date": "20260403",
       "cat": "PREMIUM",
       "price": "1100.00",
-      "status": "1"
+      "status": "0"
     },
     "CFBS|2462|20260403|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -38,7 +38,7 @@
       "date": "20260403",
       "cat": "EXECUTIVE",
       "price": "1050.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2462|20260403|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -46,7 +46,7 @@
       "date": "20260403",
       "cat": "PREMIUM",
       "price": "1100.00",
-      "status": "2"
+      "status": "1"
     },
     "PVWW|33838|20260403|PICTURE  PERFECT": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -78,7 +78,7 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "310.00",
-      "status": "3"
+      "status": "2"
     },
     "PVWW|33839|20260403|PICTURE  PERFECT": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -110,7 +110,7 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "310.00",
-      "status": "3"
+      "status": "1"
     },
     "CFBS|2507|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -126,7 +126,7 @@
       "date": "20260404",
       "cat": "EXECUTIVE",
       "price": "1050.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2507|20260404|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -134,7 +134,7 @@
       "date": "20260404",
       "cat": "PREMIUM",
       "price": "1100.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2508|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -150,7 +150,7 @@
       "date": "20260404",
       "cat": "EXECUTIVE",
       "price": "1050.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2508|20260404|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -158,7 +158,7 @@
       "date": "20260404",
       "cat": "PREMIUM",
       "price": "1100.00",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
