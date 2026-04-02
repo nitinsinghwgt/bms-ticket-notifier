@@ -1,49 +1,8 @@
 {
-  "shows": {
-    "PVER|47703|20260403|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "08:00 AM",
-      "date": "20260403",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "0"
-    },
-    "PVER|47703|20260403|PICTURE  PERFECT": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "08:00 AM",
-      "date": "20260403",
-      "cat": "PICTURE  PERFECT",
-      "price": "450.00",
-      "status": "1"
-    },
-    "PVER|47703|20260403|PRIME ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "08:00 AM",
-      "date": "20260403",
-      "cat": "PRIME ROWS",
-      "price": "400.00",
-      "status": "2"
-    },
-    "PVER|47703|20260403|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "08:00 AM",
-      "date": "20260403",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "PVER|47703|20260403|CLASSIC ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "08:00 AM",
-      "date": "20260403",
-      "cat": "CLASSIC ROWS",
-      "price": "360.00",
-      "status": "3"
-    }
-  },
+  "shows": {},
   "dates": {
     "20260402": "BOOKABLE",
-    "20260403": "AVAILABLE",
+    "20260403": "NOT_OPEN",
     "20260404": "NOT_OPEN",
     "20260405": "NOT_OPEN",
     "20260406": "NOT_OPEN",
