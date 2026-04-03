@@ -48,46 +48,6 @@
       "price": "1300.00",
       "status": "0"
     },
-    "PVFF|45779|20260403|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "01:45 PM",
-      "date": "20260403",
-      "cat": "PICTURE  PERFECT",
-      "price": "1420.00",
-      "status": "1"
-    },
-    "PVFF|45779|20260403|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "01:45 PM",
-      "date": "20260403",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "1400.00",
-      "status": "0"
-    },
-    "PVFF|45779|20260403|PRIME ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "01:45 PM",
-      "date": "20260403",
-      "cat": "PRIME ROWS",
-      "price": "1370.00",
-      "status": "0"
-    },
-    "PVFF|45779|20260403|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "01:45 PM",
-      "date": "20260403",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "1340.00",
-      "status": "0"
-    },
-    "PVFF|45779|20260403|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "01:45 PM",
-      "date": "20260403",
-      "cat": "CLASSIC ROWS",
-      "price": "1320.00",
-      "status": "2"
-    },
     "PVFF|45781|20260403|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:15 PM",
@@ -126,7 +86,7 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "1320.00",
-      "status": "3"
+      "status": "2"
     },
     "PVER|47731|20260403|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -182,7 +142,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "1250.00",
-      "status": "0"
+      "status": "1"
     },
     "PVWW|33841|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -198,7 +158,7 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "1100.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2774|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -326,7 +286,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "940.00",
-      "status": "2"
+      "status": "1"
     },
     "PVFF|45783|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -432,14 +392,6 @@
       "price": "749.00",
       "status": "0"
     },
-    "PVER|47732|20260404|PRIME ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "699.00",
-      "status": "1"
-    },
     "PVER|47732|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
@@ -447,6 +399,14 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "699.00",
       "status": "2"
+    },
+    "PVER|47732|20260404|PRIME ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "699.00",
+      "status": "1"
     },
     "PVER|47732|20260404|CLASSIC ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -478,7 +438,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "850.00",
-      "status": "1"
+      "status": "0"
     },
     "PVER|47733|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -518,7 +478,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "850.00",
-      "status": "1"
+      "status": "0"
     },
     "PVER|47737|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -558,7 +518,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "950.00",
-      "status": "2"
+      "status": "1"
     },
     "PVWW|33855|20260404|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
