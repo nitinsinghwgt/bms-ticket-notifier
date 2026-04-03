@@ -128,6 +128,46 @@
       "price": "1320.00",
       "status": "3"
     },
+    "PVER|47727|20260403|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "10:35 AM",
+      "date": "20260403",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "950.00",
+      "status": "0"
+    },
+    "PVER|47727|20260403|PICTURE  PERFECT": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "10:35 AM",
+      "date": "20260403",
+      "cat": "PICTURE  PERFECT",
+      "price": "900.00",
+      "status": "0"
+    },
+    "PVER|47727|20260403|PRIME ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "10:35 AM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "850.00",
+      "status": "1"
+    },
+    "PVER|47727|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "10:35 AM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "830.00",
+      "status": "2"
+    },
+    "PVER|47727|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "10:35 AM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "700.00",
+      "status": "3"
+    },
     "PVER|47731|20260403|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "10:30 PM",
